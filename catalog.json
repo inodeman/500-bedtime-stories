@@ -6706,20 +6706,6 @@
     "audio": "stories/479-the-the-joke-s-second-half/audio.mp3"
   },
   {
-    "id": "480",
-    "slug": "the-account-of-the-spilled-beads",
-    "title": "The Account of the Spilled Beads",
-    "youtube_title": "The Account of the Spilled Beads | Bedtime Story for Kids in English",
-    "theme": "listening",
-    "moral": "The best answer sometimes starts with hearing the whole thing.",
-    "summary": "At a bedroom at lamp time, story not started yet, Auntie Luz begins to tell Isla about account of spilled beads that included how they were found. Isla wants to interrupt with bigger news, but listens all the way to the last sentence, asks one real question, and only then shares something small of their own.",
-    "word_count": 752,
-    "duration_sec": 301.96,
-    "narration_sec": 238.13,
-    "video": "stories/480-the-account-of-the-spilled-beads/video.mp4",
-    "audio": "stories/480-the-account-of-the-spilled-beads/audio.mp3"
-  },
-  {
     "id": "481",
     "slug": "the-hope-about-the-pen-pal",
     "title": "The Hope about the Pen Pal",
@@ -6916,6 +6902,20 @@
     "audio": "stories/494-the-reason-for-the-extra-plate/audio.mp3"
   },
   {
+    "id": "495",
+    "slug": "the-story-of-getting-lost-one-minute",
+    "title": "The Story of Getting Lost One Minute",
+    "youtube_title": "The Story of Getting Lost One Minute | Bedtime Story for Kids in English",
+    "theme": "listening",
+    "moral": "The best answer sometimes starts with hearing the whole thing.",
+    "summary": "At a bedroom at lamp time, story not started yet, Auntie Luz begins to tell Ines about an one-minute story of feeling lost in a kind store. Ines wants to interrupt with bigger news, but listens all the way to the last sentence, asks one real question, and only then shares something small of their own.",
+    "word_count": 1417,
+    "duration_sec": 452.52,
+    "narration_sec": 452.52,
+    "video": "stories/495-the-story-of-getting-lost-one-minute/video.mp4",
+    "audio": "stories/495-the-story-of-getting-lost-one-minute/audio.mp3"
+  },
+  {
     "id": "496",
     "slug": "the-what-the-owl-call-is-not",
     "title": "The What the Owl Call Is Not",
@@ -6928,6 +6928,20 @@
     "narration_sec": 301.8,
     "video": "stories/496-the-what-the-owl-call-is-not/video.mp4",
     "audio": "stories/496-the-what-the-owl-call-is-not/audio.mp3"
+  },
+  {
+    "id": "497",
+    "slug": "the-instructions-to-the-substitute",
+    "title": "The Instructions to the Substitute",
+    "youtube_title": "The Instructions to the Substitute | Bedtime Story for Kids in English",
+    "theme": "listening",
+    "moral": "A story belongs to the person still speaking it.",
+    "summary": "At a library window seat, the ferryman begins to tell Sora about instructions meant for a substitute, practiced aloud. Sora wants to interrupt with bigger news, but listens all the way to the last sentence, asks one real question, and only then shares something small of their own.",
+    "word_count": 1017,
+    "duration_sec": 314.93,
+    "narration_sec": 314.93,
+    "video": "stories/497-the-instructions-to-the-substitute/video.mp4",
+    "audio": "stories/497-the-instructions-to-the-substitute/audio.mp3"
   },
   {
     "id": "498",
@@ -6956,5 +6970,19 @@
     "narration_sec": 329.64,
     "video": "stories/499-the-the-ending-of-yesterday-s-chapter/video.mp4",
     "audio": "stories/499-the-the-ending-of-yesterday-s-chapter/audio.mp3"
+  },
+  {
+    "id": "500",
+    "slug": "the-a-question-that-was-really-a-story",
+    "title": "The A Question That Was Really a Story",
+    "youtube_title": "The A Question That Was Really a Story | Bedtime Story for Kids in English",
+    "theme": "listening",
+    "moral": "The best answer sometimes starts with hearing the whole thing.",
+    "summary": "At a bedroom at lamp time, story not started yet, Auntie Luz begins to tell Jorie about a question that was really a story and needed both. Jorie wants to interrupt with bigger news, but listens all the way to the last sentence, asks one real question, and only then shares something small of their own.",
+    "word_count": 1181,
+    "duration_sec": 371.57,
+    "narration_sec": 371.57,
+    "video": "stories/500-the-a-question-that-was-really-a-story/video.mp4",
+    "audio": "stories/500-the-a-question-that-was-really-a-story/audio.mp3"
   }
 ]
