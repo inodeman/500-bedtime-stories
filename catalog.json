@@ -1638,20 +1638,6 @@
     "audio": "stories/117-the-watering-can-for-the-window-boxes/audio.mp3"
   },
   {
-    "id": "118",
-    "slug": "the-boots-mixed-up-in-the-hall",
-    "title": "The Boots Mixed Up in the Hall",
-    "youtube_title": "The Boots Mixed Up in the Hall | Bedtime Story for Kids in English",
-    "theme": "kindness",
-    "moral": "Noticing who is tired is already a gentle skill.",
-    "summary": "At a library return desk and the rainy steps, a boots mixed together in the hall is awkward for one person. Kavi notices Mr. Ade struggling and takes a useful half of the job without asking to be praised.",
-    "word_count": 715,
-    "duration_sec": 301.97,
-    "narration_sec": 230.14,
-    "video": "stories/118-the-boots-mixed-up-in-the-hall/video.mp4",
-    "audio": "stories/118-the-boots-mixed-up-in-the-hall/audio.mp3"
-  },
-  {
     "id": "119",
     "slug": "the-bread-trays-for-the-early-table",
     "title": "The Bread Trays for the Early Table",
@@ -2212,6 +2198,20 @@
     "audio": "stories/158-the-trying-the-wide-brush/audio.mp3"
   },
   {
+    "id": "159",
+    "slug": "the-order-at-the-noodle-window",
+    "title": "The Order at the Noodle Window",
+    "youtube_title": "The Order at the Noodle Window | Bedtime Story for Kids in English",
+    "theme": "courage",
+    "moral": "A shy try, done kindly, is already courage.",
+    "summary": "At a lantern walk along the evening lane, Anil feels shy about an order at the noodle window. Instead of pretending not to care, Anil tries the smallest brave version in a voice that can be heard, while Nana Ruth stays kind and does not push for a show.",
+    "word_count": 1108,
+    "duration_sec": 351.0,
+    "narration_sec": 351.1,
+    "video": "stories/159-the-order-at-the-noodle-window/video.mp4",
+    "audio": "stories/159-the-order-at-the-noodle-window/audio.mp3"
+  },
+  {
     "id": "160",
     "slug": "the-knock-on-the-studio-door",
     "title": "The Knock on the Studio Door",
@@ -2224,6 +2224,20 @@
     "narration_sec": 374.76,
     "video": "stories/160-the-knock-on-the-studio-door/video.mp4",
     "audio": "stories/160-the-knock-on-the-studio-door/audio.mp3"
+  },
+  {
+    "id": "161",
+    "slug": "the-reading-one-line-aloud",
+    "title": "The Reading One Line Aloud",
+    "youtube_title": "The Reading One Line Aloud | Bedtime Story for Kids in English",
+    "theme": "courage",
+    "moral": "Courage can be a small voice used at the right moment.",
+    "summary": "At a small school room with a low stage edge, Ilaria feels shy about an one line that could be read aloud. Instead of pretending not to care, Ilaria tries the smallest brave version in a voice that can be heard, while Mama stays kind and does not push for a show.",
+    "word_count": 1108,
+    "duration_sec": 334.0,
+    "narration_sec": 334.44,
+    "video": "stories/161-the-reading-one-line-aloud/video.mp4",
+    "audio": "stories/161-the-reading-one-line-aloud/audio.mp3"
   },
   {
     "id": "162",
@@ -2240,6 +2254,34 @@
     "audio": "stories/162-the-joining-the-circle-late/audio.mp3"
   },
   {
+    "id": "164",
+    "slug": "the-first-row-of-knitting",
+    "title": "The First Row of Knitting",
+    "youtube_title": "The First Row of Knitting | Bedtime Story for Kids in English",
+    "theme": "courage",
+    "moral": "A shy try, done kindly, is already courage.",
+    "summary": "At a lantern walk along the evening lane, Farah feels shy about a first row of knitting in front of Nana. Instead of pretending not to care, Farah tries the smallest brave version in a voice that can be heard, while Nana Ruth stays kind and does not push for a show.",
+    "word_count": 1179,
+    "duration_sec": 374.0,
+    "narration_sec": 374.45,
+    "video": "stories/164-the-first-row-of-knitting/video.mp4",
+    "audio": "stories/164-the-first-row-of-knitting/audio.mp3"
+  },
+  {
+    "id": "165",
+    "slug": "the-wave-to-the-ferry",
+    "title": "The Wave to the Ferry",
+    "youtube_title": "The Wave to the Ferry | Bedtime Story for Kids in English",
+    "theme": "courage",
+    "moral": "Speaking up once, softly, can open a door.",
+    "summary": "At a music corner with a drum and a recorder, Kei feels shy about a wave big enough for the ferry to notice, or not. Instead of pretending not to care, Kei tries the smallest brave version in a voice that can be heard, while Auntie Luz stays kind and does not push for a show.",
+    "word_count": 973,
+    "duration_sec": 306.6,
+    "narration_sec": 306.6,
+    "video": "stories/165-the-wave-to-the-ferry/video.mp4",
+    "audio": "stories/165-the-wave-to-the-ferry/audio.mp3"
+  },
+  {
     "id": "166",
     "slug": "the-asking-to-try-the-whisk",
     "title": "The Asking to Try the Whisk",
@@ -2252,5 +2294,47 @@
     "narration_sec": 326.14,
     "video": "stories/166-the-asking-to-try-the-whisk/video.mp4",
     "audio": "stories/166-the-asking-to-try-the-whisk/audio.mp3"
+  },
+  {
+    "id": "167",
+    "slug": "the-standing-beside-the-shy-singer",
+    "title": "The Standing beside the Shy Singer",
+    "youtube_title": "The Standing beside the Shy Singer | Bedtime Story for Kids in English",
+    "theme": "courage",
+    "moral": "Trying the smallest brave step still counts.",
+    "summary": "At a bakery counter facing the street, Uma feels shy about a place beside a singer who needed one more voice nearby. Instead of pretending not to care, Uma tries the smallest brave version in a voice that can be heard, while the ferryman stays kind and does not push for a show.",
+    "word_count": 1046,
+    "duration_sec": 321.96,
+    "narration_sec": 321.96,
+    "video": "stories/167-the-standing-beside-the-shy-singer/video.mp4",
+    "audio": "stories/167-the-standing-beside-the-shy-singer/audio.mp3"
+  },
+  {
+    "id": "168",
+    "slug": "the-choosing-the-plain-cup",
+    "title": "The Choosing the Plain Cup",
+    "youtube_title": "The Choosing the Plain Cup | Bedtime Story for Kids in English",
+    "theme": "courage",
+    "moral": "Being new at something is not the same as failing.",
+    "summary": "At a library story circle, Zola feels shy about choosing the plain cup instead of pretending to want the fancy one. Instead of pretending not to care, Zola tries the smallest brave version in a voice that can be heard, while Auntie June stays kind and does not push for a show.",
+    "word_count": 870,
+    "duration_sec": 301.98,
+    "narration_sec": 278.45,
+    "video": "stories/168-the-choosing-the-plain-cup/video.mp4",
+    "audio": "stories/168-the-choosing-the-plain-cup/audio.mp3"
+  },
+  {
+    "id": "170",
+    "slug": "the-starting-the-song-after-the-rest",
+    "title": "The Starting the Song After the Rest",
+    "youtube_title": "The Starting the Song After the Rest | Bedtime Story for Kids in English",
+    "theme": "courage",
+    "moral": "Speaking up once, softly, can open a door.",
+    "summary": "At a music corner with a drum and a recorder, Ines feels shy about starting a song after a rest, when the room was listening. Instead of pretending not to care, Ines tries the smallest brave version in a voice that can be heard, while Auntie Luz stays kind and does not push for a show.",
+    "word_count": 1090,
+    "duration_sec": 354.0,
+    "narration_sec": 354.29,
+    "video": "stories/170-the-starting-the-song-after-the-rest/video.mp4",
+    "audio": "stories/170-the-starting-the-song-after-the-rest/audio.mp3"
   }
 ]
